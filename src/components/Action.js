@@ -27,6 +27,7 @@ export default class Action extends React.Component {
         }
 
         return (
+            <div>Test</div>
             <Link href={withPrefix(url)} {...attrs} className={classes}>
                 {style === 'icon' ? (
                     <React.Fragment>
