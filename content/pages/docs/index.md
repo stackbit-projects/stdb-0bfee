@@ -59,5 +59,8 @@ Features
 
 You can start install the package on your project:
 
+    ```
+    xd
+
 ```
 ```
