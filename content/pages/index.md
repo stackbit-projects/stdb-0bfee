@@ -71,7 +71,7 @@ seo:
     - name: 'twitter:title'
       value: ST.db
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: Create the best strong data base with high protection
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
