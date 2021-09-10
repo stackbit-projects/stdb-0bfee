@@ -50,7 +50,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
 seo:
-  title: Stackbit Libris Theme
+  title: ST.db
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
