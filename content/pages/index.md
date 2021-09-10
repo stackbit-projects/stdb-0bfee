@@ -44,7 +44,7 @@ sections:
     title: >-
       What are you waiting for, go to a library to see the full benefits and
       enjoy it
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Use the fastest data base with high protection
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
