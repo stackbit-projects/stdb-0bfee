@@ -21,4 +21,6 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-\`xd\`
+\`\`\`
+xd
+\`\`\`
