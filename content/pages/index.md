@@ -51,7 +51,7 @@ sections:
         style: primary
 seo:
   title: ST.db
-  description: The preview of the Libris theme
+  description: Create the best strong data base with high protection
   extra:
     - name: 'og:type'
       value: website
