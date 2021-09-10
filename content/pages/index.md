@@ -33,7 +33,7 @@ sections:
           - label: View
             url: 'https://www.npmjs.com/package/st.db/'
             style: link
-      - title: Style Guide
+      - title: Multiple Files
         content: |
           You can make more than one file to store data easily
         actions:
