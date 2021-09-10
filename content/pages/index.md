@@ -24,7 +24,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: NPM & YARN
+      - title: Installation
         content: |
           You can use the library in **npm** or **yarn**
         actions:
