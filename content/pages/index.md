@@ -25,11 +25,9 @@ sections:
             url: /docs
             style: link
       - title: Data encryption
-        content: |
-          ```
-          ```
-
-          You can start install the package on your project:
+        content: >
+          Database supports data encryption mode with a custom password to
+          protect every item that is stored
         actions:
           - label: View
             url: 'https://www.npmjs.com/package/st.db/'
