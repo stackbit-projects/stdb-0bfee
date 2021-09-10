@@ -10,7 +10,7 @@ sections:
       to another, supports data encryption if you want, and many more
       **feature**
     actions:
-      - label: Get Started
+      - label: "Get Started\_Get Started"
         url: /docs
         style: primary
   - section_id: features
