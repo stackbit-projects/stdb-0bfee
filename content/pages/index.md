@@ -24,7 +24,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Installation
+      - title: Data encryption
         content: |
           ```
           ```
