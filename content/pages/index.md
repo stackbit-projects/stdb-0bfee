@@ -60,7 +60,7 @@ seo:
       value: ST.db
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: Create the best strong data base with high protection
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
