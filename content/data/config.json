@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Libris",
+        "title": "ST.db",
         "logo_img": "/images/ac39c7f1de541cda.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
