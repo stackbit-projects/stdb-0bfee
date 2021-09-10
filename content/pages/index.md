@@ -6,7 +6,7 @@ sections:
     title: ST.db
     image: images/5.jpg
     content: >
-      **JSON database **is simple and fast, you can read data from one project
+      **JSON** database is simple and fast, you can read data from one project
       to another, supports data encryption if you want, and many more
       **feature**
     actions:
