@@ -26,7 +26,10 @@ sections:
             style: link
       - title: Installation
         content: |
-          You can use the library in **npm** or **yarn**
+          ```
+          ```
+
+          You can start install the package on your project:
         actions:
           - label: View
             url: 'https://www.npmjs.com/package/st.db/'
