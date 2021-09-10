@@ -31,7 +31,7 @@ sections:
           You can use the library in **npm** or **yarn**
         actions:
           - label: View
-            url: /blog
+            url: 
             style: link
       - title: Style Guide
         content: >-
